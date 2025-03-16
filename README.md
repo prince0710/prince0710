@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **princethakurbgs07@gmail.com**
+- 📫 How to reach me **princethakurbgs07@gmail.com** **https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/**
 
-- ⚡ Fun fact **I think i am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
