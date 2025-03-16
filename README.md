@@ -7,13 +7,13 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **princethakurbgs07@gmail.com** **https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/**
+- 📫 How to reach me **princethakurbgs07@gmail.com** 
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-thakur-8b7438222/" height="30" width="40" /></a>
 <a href="https://fb.com/prince thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prince thakur" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_ji_71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_ji_71" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chiki07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chiki07" height="30" width="40" /></a>
